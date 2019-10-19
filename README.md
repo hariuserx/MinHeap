@@ -1,5 +1,5 @@
 # MinHeap
-Java and C++ implementations of Min heap with and without arrays. An assignment problem.
+Java and C++ implementations of Min heap with and without arrays.
 
 Some performance stats:
 
